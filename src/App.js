@@ -14,7 +14,6 @@ const AppStyled = styled.div`
   padding: 0;
   display: flex;
   justify-content: center;
-  background: #144bc8;
 `;
 
 const Container = styled.div`
